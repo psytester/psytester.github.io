@@ -3,15 +3,12 @@
 #
 
 theme:            jekyll-theme-minimal
-# Name of your site (displayed in the header)
-name:             psytester
-
-# Short bio or description (displayed in the header)
-description:      'Testing is my passion. Sharing knowledge is my contribution.'
 title:            Blog of psytester
+description:      'Testing is my passion. Sharing knowledge is my contribution.'
+name:             psytester
+avatar:           https://avatars1.githubusercontent.com/u/7526983?s=400
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:           https://avatars1.githubusercontent.com/u/7526983
+permalink: /article/:title
 
 #
 # Flags below are optional
