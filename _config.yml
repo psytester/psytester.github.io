@@ -3,3 +3,5 @@ title:            psytester Blog
 tagline:          'blog'
 description:      'Testing is my passion. Sharing knowledge is my contribution.'
 url:              http://psytester.github.io
+plugins:
+  - jekyll-sitemap
