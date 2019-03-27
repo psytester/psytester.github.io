@@ -8,7 +8,7 @@ description:      'Testing is my passion. Sharing knowledge is my contribution.'
 name:             psytester
 avatar:           https://avatars1.githubusercontent.com/u/7526983?s=400
 
-permalink: /article/:title
+permalink:        /article/:title
 
 #
 # Flags below are optional
