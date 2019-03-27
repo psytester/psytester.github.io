@@ -2,6 +2,11 @@ theme:            jekyll-theme-minimal
 title:            Blog of psytester
 tagline:          'blog'
 description:      'Testing is my passion. Sharing knowledge is my contribution.'
-url:              http://psytester.github.io
+url:              http://psytester.github.io/blog
+home:             http://psytester.github.io
+baseurl:          /blog/
+paginate:         3
+paginate_path:    "/page:num/"
+exclude:          ['posts']
 plugins:
   - jekyll-sitemap
