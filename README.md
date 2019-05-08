@@ -6,7 +6,7 @@ Testing is my passion. Sharing knowledge is my contribution.
 ### Table of content
 
 Every family has a skeleton in the cupboard.
-Keep going. Disclosure is comming soon around end of March or mid of April.
+Keep going. Disclosure is comming soon in July 2019.
 
 
 #### Smart Home == Smart Hack?
@@ -27,8 +27,8 @@ Vorbereitungen um das System anzusprechen:
 * API Beschreibungen vom Hersteller suchen
 * einschlägige Foren durchforsten
 * Code Analyse mit Decompilern wie der Prozess funktioniert
+* String Analyse einer Binary
 
 Es kann losgehen....
 
-Auflösung der Geschichte: Jetzt müsst ihr sehr wahrscheinlich noch bis ca. Mitte Mai 2019 warten.
-
+Auflösung der Geschichte: Jetzt müsst ihr leider noch bis Juli 2019 warten.
