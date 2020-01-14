@@ -23,11 +23,26 @@ body {
   color: $darkGray;
 }
 
+/* My central layout max-width: 740px; --> max-width: 80%; */
 .container {
   margin: 0 auto;
   max-width: 80%;
   padding: 0 10px;
   width: 100%;
+}
+
+/* My Markdown ``` ...``` layout fix */
+/* margin: 20px 0 20px 0; --> margin: 3px 0 3px 0; */
+/* overflow: scroll; --> overflow: auto;*/
+.highlight {
+  background-color: #efefef;
+  padding: 7px 7px 7px 10px;
+  border: 1px solid #ddd;
+  -moz-box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+  margin: 3px 0 3px 0;
+  overflow: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
