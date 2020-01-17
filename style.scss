@@ -303,3 +303,8 @@ footer {
   margin: 3px 0 3px 0;
   overflow: auto;
 }
+
+/* my tables cells with borders */
+th, td {
+  border: 1px solid black;
+}
