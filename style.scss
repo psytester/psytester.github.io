@@ -19,7 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 12px/1.4 $helvetica;
+  // main text, orig 12px/1.4, now 14px/1.1
+  font: 14px/1.1 $helvetica;
   color: $darkGray;
 }
 
