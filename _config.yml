@@ -20,7 +20,7 @@ footer-links:
   twitter: "psytester1"
   mastodon:
     - username: psytester
-    instance: infosec.exchange
+      instance: infosec.exchange
 
 # Your website URL
 # Used for Sitemap.xml and your RSS feed
