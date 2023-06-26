@@ -8,7 +8,7 @@ description:      'Testing is my passion. Sharing knowledge is my contribution.'
 name:             psytester
 avatar:           https://avatars1.githubusercontent.com/u/7526983?s=400
 
-permalink:        /article/:title
+# permalink:        /article/:title
 
 #
 # Flags below are optional
@@ -59,11 +59,13 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-last-modified-at # Show and sort against last modified date
+  - jekyll-seo-tag # generate SEO metadata
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-last-modified-at # Show and sort against last modified date
+  - jekyll-seo-tag # generate SEO metadata
 
 # Optional the default date format, used if none is specified in the last-modified-at tag.
 last-modified-at:
